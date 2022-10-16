@@ -2,7 +2,7 @@ PW = gg.prompt({'🔒 Input password: '},{[1]=''},{[1]='MR HACKER YT'})
 if not PW then return
 end 
 if PW[1] == "" then gg.alert("😡 SUBSCRIBE MR HACKER YT😡") os.exit() end
-if PW[1] =="5645" then 
+if PW[1] =="0123" then 
  gg.toast('CREDIT INDIAN@ LEGION')
 else 
  gg.alert("MADRCHOD PASWARD SHI DAAL") return end
@@ -123,7 +123,7 @@ function AT()
 SN1 = gg.choice({
 "📡┣Head Antenna 🇮🇳 ●",
 "👁️┣See Through Walls (New) 🇮🇳 ●",
-"🤺┣White symbol 🇮🇳 ●",
+"🤺┣White Body 🇮🇳 ●",
 "🚡┣Diving + flying Vehicles 🇮🇳 ●",
 "🌿┣Removal of grass 🇮🇳 ●",
 "📡┣Small Antenna 🇮🇳 ●",
@@ -224,7 +224,7 @@ SN3 = gg.choice({
 "👻┣Walking Through Walls (Visual) 🇮🇳 ●",
 "📤┣House Boat 🇮🇳 ●",
 "🏃┣Fast run ●",
-"💀┣Remove Card ●",
+"💀┣Remove Map ●",
 "🗡️┣Impact speed + high Damege ●",
 "♥️Back♥️",
 }, nil,"┣【💋MR. HACKER Yt 💋】┫")
